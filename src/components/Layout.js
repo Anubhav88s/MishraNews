@@ -1,9 +1,9 @@
 import Navbar from './Navbar';
 import Footer from './Footer';
 
-const Layout = ({ children }) => {
+export default function Layout({ children }) {
     return (
-        <div className="flex flex-col min-h-screen bg-gray-50 font-sans">
+        <div className="flex flex-col min-h-screen bg-gray-50">
             <Navbar />
             <main className="flex-grow container mx-auto px-4 py-6">
                 {children}
@@ -11,6 +11,4 @@ const Layout = ({ children }) => {
             <Footer />
         </div>
     );
-};
-
-export default Layout;
+}
