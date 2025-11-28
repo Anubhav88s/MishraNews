@@ -5,6 +5,8 @@ This is a front-page clone of the LiveHindustan website built with Next.js and T
 Part B – Explanation + Documentation
 Design Document
 
+![Basic Structure](public/images/design_structure.png)
+
 Layout Decisions:
 
 3-Column Grid: I chose a responsive grid layout. On desktop, it shows a 3-column grid for standard news cards to maximize information density while maintaining readability.
