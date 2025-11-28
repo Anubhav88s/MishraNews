@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "India Wins Cricket World Cup Match Against Rivals",
+    "summary": "In a thrilling encounter, India secured a victory by 50 runs. The captain led from the front with a magnificent century.",
+    "content": "Full article content here... The match was held at the Narendra Modi Stadium. Fans were ecstatic as the home team dominated the proceedings. The bowling attack was sharp, and the fielding was top-notch.",
+    "image": "https://placehold.co/600x400/png?text=Cricket+Match",
+    "category": "Sports",
+    "timestamp": "2023-10-27T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Government Announces New Policy for Electric Vehicles",
+    "summary": "The new policy aims to boost EV adoption by providing subsidies and expanding charging infrastructure across the country.",
+    "content": "Full article content here... The Minister of Transport announced the new guidelines today. Subsidies will be provided directly to manufacturers to reduce the cost for consumers. Charging stations will be set up every 50km on highways.",
+    "image": "https://placehold.co/600x400/png?text=EV+Policy",
+    "category": "Business",
+    "timestamp": "2023-10-27T09:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Bollywood Star's New Movie Breaks Box Office Records",
+    "summary": "The highly anticipated action thriller has crossed the 100 crore mark in just 3 days, setting a new benchmark for the industry.",
+    "content": "Full article content here... Critics and fans alike are praising the movie for its high-octane action sequences and gripping storyline. The lead actor expressed gratitude to the fans on social media.",
+    "image": "https://placehold.co/600x400/png?text=Bollywood+Movie",
+    "category": "Entertainment",
+    "timestamp": "2023-10-27T11:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Tech Giant Launches New AI-Powered Smartphone",
+    "summary": "The latest flagship phone features advanced AI capabilities, a pro-grade camera system, and all-day battery life.",
+    "content": "Full article content here... The launch event was watched by millions globally. The phone includes a new neural engine that processes photos in real-time. It also features a titanium frame for durability.",
+    "image": "https://placehold.co/600x400/png?text=Smartphone+Launch",
+    "category": "Technology",
+    "timestamp": "2023-10-27T12:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Local Elections: Voter Turnout Reaches Record High",
+    "summary": "Citizens came out in large numbers to cast their votes, signaling a strong desire for change and development in the region.",
+    "content": "Full article content here... Long queues were seen outside polling booths from early morning. The election commission reported a 75% turnout, the highest in two decades. Results are expected to be announced tomorrow.",
+    "image": "https://placehold.co/600x400/png?text=Elections",
+    "category": "Politics",
+    "timestamp": "2023-10-27T08:45:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Weather Update: Heavy Rains Predicted for Coastal Areas",
+    "summary": "The meteorological department has issued a yellow alert for the next 48 hours, advising fishermen not to venture into the sea.",
+    "content": "Full article content here... A low-pressure area has formed over the Bay of Bengal. Heavy rainfall is expected in the coastal districts. Disaster management teams have been put on high alert.",
+    "image": "https://placehold.co/600x400/png?text=Weather+Update",
+    "category": "Weather",
+    "timestamp": "2023-10-27T07:00:00Z"
+  }
+]
